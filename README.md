@@ -1,5 +1,13 @@
 ### Hi, this is Discover304
 
+- **Bilingual**: Chinese English
+- **Python**: 90%      🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜
+- **Java**: 80%        🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
+- **C**: 50%           🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
+- **Mathematica**: 30% 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
+
+[![](https://github-readme-stats.vercel.app/api?username=discover304&theme=light)](https://github.com/Discover304)
+
 See more in my blog: https://discover304.github.io/about/
 
 <!--
@@ -16,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://api.btstu.cn/sjbz/api.php?lx=dongman&format=images)
