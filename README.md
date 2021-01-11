@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, this is Discover304
+
+See more in my blog: https://discover304.github.io/about/
 
 <!--
 **Discover304/Discover304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
