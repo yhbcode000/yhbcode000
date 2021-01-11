@@ -8,7 +8,9 @@ See more in my blog: https://discover304.github.io/about/
 - **C**: 50%           🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
 - **Mathematica**: 30% 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
-[![](https://github-readme-stats.vercel.app/api?username=discover304&theme=light)](https://github.com/Discover304)
+[![](https://github-readme-stats.vercel.app/api?username=discover304&theme=light&count_private=true)](https://github.com/Discover304)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Discover304)
 
 <!--
 **Discover304/Discover304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
