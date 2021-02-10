@@ -2,11 +2,13 @@
 
 See more in my blog: https://discover304.github.io/about/
 
-- ✔️ **Bilingual**: Chinese English
-- ✔️ **Python**: 90%      🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜
-- ✔️ **Java**: 80%        🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
-- ✔️ **C**: 50%           🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
-- ✔️ **Mathematica**: 30% 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
+```
+✔️ Bilingual: Chinese English
+✔️ Python: 90%      🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜
+✔️ Java: 80%        🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
+✔️ C: 50%           🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
+✔️ Mathematica: 30% 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
+```
 
 [![](https://github-readme-stats.vercel.app/api?username=discover304&theme=light&count_private=true)](https://github.com/Discover304)
 
