@@ -1,6 +1,6 @@
 ### Hi, this is Discover304 ✨ 
 
-See more in my blog: https://discover304.github.io/about/
+See more in my blog: https://discover304.top/about/
 
 ```
 ✔️ Bilingual: Chinese English
