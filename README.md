@@ -12,7 +12,7 @@ See more in my blog: https://discover304.top/about/
 #### Visitors (Since 2021/03/07)
 [![](https://count.getloli.com/get/@Discover304?theme=gelbooru)](https://count.getloli.com/get/@Discover304?theme=gelbooru)
 
-[![](https://github-readme-stats.vercel.app/api?username=discover304&theme=default&bg_color=60,FFFFFF,FFFFFF,CCCCCC,CCCCCC,999999&text_color=000000&title_color=000000&count_private=true)](https://github.com/Discover304)
+[![](https://github-readme-stats.vercel.app/api?username=discover304&theme=default&bg_color=90,FFFFFF,FFFFFF,CCCCCC,CCCCCC,999999&text_color=000000&title_color=000000&count_private=true)](https://github.com/Discover304)
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Discover304)](https://wakatime.com/dashboard)
