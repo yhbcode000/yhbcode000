@@ -4,10 +4,10 @@ See more in my blog: https://discover304.top/about/
 
 ```
 ✔️ Bilingual: Chinese English
-✔️ Python: 90%      🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜
-✔️ Java: 80%        🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
-✔️ C: 50%           🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
-✔️ Mathematica: 30% 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
+✔️ Python: 90%      
+✔️ Java: 80%        
+✔️ C: 50%           
+✔️ Mathematica: 30% 
 ```
 #### Visitors (Since 2021/03/07)
 [![](https://count.getloli.com/get/@Discover304?theme=gelbooru)](https://count.getloli.com/get/@Discover304?theme=gelbooru)
