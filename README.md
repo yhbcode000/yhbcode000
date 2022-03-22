@@ -2,7 +2,7 @@
 
 I like learning new things and making friend.
 
-See more in my blog: https://discover304.top/about/
+See more in my blog: https://discover304.top
 
 ```
 ✔️ Proficient with java python c haskell markdown
