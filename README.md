@@ -1,4 +1,4 @@
-### Hi, this is YangSirCode000 ✨ 
+### Hi, this is YangSierCode000 ✨ 
 
 I like learning new things and making friend.
 
