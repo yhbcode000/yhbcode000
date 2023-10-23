@@ -11,7 +11,7 @@ See more in my blog: https://discover304.top
 - 😄 Biligual: Chinese and English
 
 #### Visitors (Since 2021/03/07)
-[![](https://count.getloli.com/get/@Discover304?theme=gelbooru)](https://count.getloli.com/get/@YangSierCode000?theme=gelbooru)
+[<div align="left"><img src="https://count.getloli.com/get/@YangSierCode000?theme=rule34" style="width: 73%;"></div>](https://count.getloli.com/get/@YangSierCode000?theme=rule34)
 <!-- 
 [![](https://github-readme-stats.vercel.app/api?username=discover304&theme=default&bg_color=FFFFFF&text_color=000000&title_color=000000&count_private=true)](https://github.com/Discover304) -->
 
