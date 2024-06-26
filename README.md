@@ -63,8 +63,5 @@ See more in my [Blog](https://discover304.top).
 
 ---
 
-### 🎶Visitors (Since 2021/03/07)
-
-[<div align="left"><img src="https://count.getloli.com/get/@Discover304?theme=rule34" style="width: 60%;"></div>](https://count.getloli.com/get/@Discover304?theme=rule34)
 
 
