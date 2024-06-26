@@ -2,7 +2,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangsiercode000&layout=compact&theme=dark&hide=html" alt="YangSierCode000's github stats"/>
 
-Artificial Intelligence Researcher specialized in Multi-Agent Systems, Federated Learning, and Reinforcement Learning, focusing on robotics and math-intensive proofs for safe and private AI. Expertise in Multi-Modal Fusion, Deep Learning Interpretability, and Reliability, striving to develop robust AI systems that integrate information from diverse sources such as images, point clouds, text, and speech. Passionate about advancing AI to new frontiers and solving complex real-world problems.
+As an Artificial Intelligence Researcher, my focus is on Reinforcement Learning with a strong emphasis on ensuring the safety and privacy of AI in robotics. I specialize in developing math-intensive proofs and strategies aimed at robust and private AI applications. My expertise also covers Multi-Modal Fusion, Deep Learning Interpretability, and Reliability. I am committed to designing AI systems that seamlessly integrate diverse data forms such as images, point clouds, text, and speech, ensuring their reliability and interpretability across various implementations.
+
+I am driven by a passion to push AI technology to new frontiers, tackling complex challenges in real-world settings. My current projects emphasize Robotics AI Safety, AI for Science (AI4Sci), AI-generated content (AIGC), and Embodied Intelligence. These areas represent the forefront of applying advanced AI methods to ensure effective, safe, and ethical integration into everyday applications and complex scientific domains.
 
 See more in my [Blog](https://discover304.top).
 
