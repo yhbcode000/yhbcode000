@@ -1,6 +1,6 @@
 ## ✨Hi, this is Haobo Yang
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangsiercode000&layout=compact&theme=dark&hide=html" alt="YangSierCode000's github stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhbcode000&layout=compact&theme=dark&hide=html" alt="Haobo Yang's github stats"/>
 
 As an Artificial Intelligence Researcher, my focus is on Reinforcement Learning with a strong emphasis on ensuring the safety and privacy of AI in robotics. I specialize in developing math-intensive proofs and strategies aimed at robust and private AI applications. My expertise also covers Multi-Modal Fusion, Deep Learning Interpretability, and Reliability. I am committed to designing AI systems that seamlessly integrate diverse data forms such as images, point clouds, text, and speech, ensuring their reliability and interpretability across various implementations.
 
@@ -12,7 +12,7 @@ See more in my [Blog](https://discover304.top).
 
 ### ✅Skill Stack
 
-[![Github stars](https://img.shields.io/github/stars/yangsiercode000.svg?style=flat-square&label=⭐Star)](https://github.com/YangSierCode000?tab=repositories)
+[![Github stars](https://img.shields.io/github/stars/yhbcode000.svg?style=flat-square&label=⭐Star)](https://github.com/yhbcode000?tab=repositories)
 ![](https://img.shields.io/badge/-&-39C5BB?style=flat-square)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=ffffff)](https://www.java.com/)
