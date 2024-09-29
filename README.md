@@ -65,5 +65,5 @@ See more in my [Blog](https://discover304.top).
 
 ---
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YHBCODE000&show_icons=true&theme=radical)
 
