@@ -1,6 +1,6 @@
 ## ✨Hi, this is ShiroX
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=YHBCODE000&show_icons=true&theme=radical" alt="Haobo Yang's github stats"/>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=YHBCODE000&show_icons=true&theme=radical" alt="Haobo Yang's github stats"/> -->
 
 As an Artificial Intelligence Researcher, my focus is on Reinforcement Learning with a strong emphasis on ensuring the safety and privacy of AI in robotics. I specialize in developing math-intensive proofs and strategies aimed at robust and private AI applications. My expertise also covers Multi-Modal Fusion, Deep Learning Interpretability, and Reliability. I am committed to designing AI systems that seamlessly integrate diverse data forms such as images, point clouds, text, and speech, ensuring their reliability and interpretability across various implementations.
 
