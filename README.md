@@ -2,7 +2,7 @@
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=YHBCODE000&show_icons=true&theme=radical" alt="Haobo Yang's github stats"/> -->
 
-As an Artificial Intelligence Researcher, my focus is on Reinforcement Learning with a strong emphasis on ensuring the safety and privacy of AI in robotics. I specialize in developing math-intensive proofs and strategies aimed at robust and private AI applications. My expertise also covers Multi-Modal Fusion, Deep Learning Interpretability, and Reliability. I am committed to designing AI systems that seamlessly integrate diverse data forms such as images, point clouds, text, and speech, ensuring their reliability and interpretability across various implementations.
+As an Artificial Intelligence Researcher, my focus is on embodied intelligence, vla/world model, ensemble learning, multi-modality. I specialize in developing math-intensive proofs and strategies aimed at robust and private AI applications. My expertise also covers Multi-Modal Fusion, Deep Learning Interpretability, and Reliability. I am committed to designing AI systems that seamlessly integrate diverse data forms such as images, point clouds, text, and speech, ensuring their reliability and interpretability across various implementations.
 
 I am driven by a passion to push AI technology to new frontiers, tackling complex challenges in real-world settings. My current projects emphasize Robotics AI Safety, AI for Science (AI4Sci), AI-generated content (AIGC), and Embodied Intelligence. These areas represent the forefront of applying advanced AI methods to ensure effective, safe, and ethical integration into everyday applications and complex scientific domains.
 
