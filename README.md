@@ -6,7 +6,7 @@ I am a Ph.D. student in Computer Science at Southern University of Science and T
 
 My research explores how AI agents can move beyond passive perception toward interactive intelligence — learning from multimodal experiences, collaborating with humans, and adapting to complex real-world environments.
 
-See more in my [Blog](https://yhbcode000.top).
+See more in my blog: [https://yhbcode000.tech](https://yhbcode000.tech).
 
 ---
 
