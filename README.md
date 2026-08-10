@@ -2,11 +2,11 @@
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=YHBCODE000&show_icons=true&theme=radical" alt="Haobo Yang's github stats"/> -->
 
-As an Artificial Intelligence Researcher, my focus is on embodied intelligence, vla/world model, ensemble learning, multi-modality. I specialize in developing math-intensive proofs and strategies aimed at robust and private AI applications. My expertise also covers Multi-Modal Fusion, Deep Learning Interpretability, and Reliability. I am committed to designing AI systems that seamlessly integrate diverse data forms such as images, point clouds, text, and speech, ensuring their reliability and interpretability across various implementations.
+I am a Ph.D. student in Computer Science at Southern University of Science and Technology (SUSTech), starting in Fall 2026. My research lies at the intersection of Embodied AI, Robotics, and Multimodal Learning, with the goal of developing intelligent systems that can perceive, reason, communicate, and act in the physical world.
 
-I am driven by a passion to push AI technology to new frontiers, tackling complex challenges in real-world settings. My current projects emphasize Robotics AI Safety, AI for Science (AI4Sci), AI-generated content (AIGC), and Embodied Intelligence. These areas represent the forefront of applying advanced AI methods to ensure effective, safe, and ethical integration into everyday applications and complex scientific domains.
+My research explores how AI agents can move beyond passive perception toward interactive intelligence — learning from multimodal experiences, collaborating with humans, and adapting to complex real-world environments.
 
-See more in my [Blog](https://discover304.top).
+See more in my [Blog](https://yhbcode000.top).
 
 ---
 
